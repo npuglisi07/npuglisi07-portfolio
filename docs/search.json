@@ -1,0 +1,93 @@
+[
+  {
+    "objectID": "tidytuesday_exercise.html",
+    "href": "tidytuesday_exercise.html",
+    "title": "Master of Science Thesis",
+    "section": "",
+    "text": "Abstract: This study aims to quantify spatiotemporal relationships among hurricane impacts, social vulnerability, and community resilience with COVID-19 deaths per capita. Data used in this study included the Southeastern US with Hospital Service Areas (HSAs) and Hospital Referral Regions (HRRs) instead of county-level data. The Moran eigenvector spatial filtering (MESF) modeling method was employed to index and filter spatial autocorrelation (SA) from the residuals. SA was visualized to understand better the spatial structure meaningful covariates contain. The MESF model outperformed the linear model, not accounting for SA. Adjusted R-squared was 49.8% higher, and residual SE decreased 29.3% when comparing a 4-nearest-neighbor HRR to the linear model not considering SA. Analyzing cumulative COVID-19 deaths with this methodology is more effective at the HRR than at the HSA level. Additionally, vulnerability and resilience indicators were more substantial than hurricane impacts.\n\n\n\n\n\nThis image captures the 12 Moran eigenvector spatial filtering (MESF) models fit.\nI have included the introduction, results and conclusion sections of the thesis below.\n\n\n\n\n\n\n\n  \n     Download Thesis"
+  },
+  {
+    "objectID": "aboutme.html",
+    "href": "aboutme.html",
+    "title": "All About Me - Nicolas Puglisi",
+    "section": "",
+    "text": "Introduction\nHi, my name is Nicolas Puglisi. I have recently completed my Master of Science degree in mathematics from Virginia Tech (VT) in May 2024. I completed my undergraduate degrees in mathematics and statistics at the University of Georgia in May 2022. I am currently seeking employment, and I am excited to apply my model building skill set and gain additional experience in the real-world with messy data.\n\n\n\n\n\n\nWhy Mathematics & Statistics?\nMy love for mathematics began when I took Calculus 1 while dually enrolled with a local college as a rising senior in High School. At the time, I thought I would go on to study engineering or chemistry in college, but I instantly fell in love with the problem-solving, challenge, and intuition of mathematics. During my orientation at UGA, I spoke with the statistics program’s undergraduate advisor and was convinced to add an additional major. As a result, studying mathematics and statistics in tandem has given me an immense appreciation for the rich theory and application of model-building and data analysis skills. My studies have empowered me to become a critical thinker and skilled analyst who can work in many settings and collaborate with all.\n\n\nBackground\n\nTo conclude my M.S. degree, I researched and defended a thesis validating the forecasting performance of mathematical infectious disease models using data from the 2015-2016 Zika virus epidemic in Colombia. I have been interested in predictive modeling for many years, and became interested in epidemic forecasting after learning more about mathematical modeling from my M.S. program.\nDuring my graduate studies, I was a teaching assistant for multiple math classes in Virginia Tech’s mathematics department. I held weekly recitation lectures for undergraduate students in MATH 1025, and also assisted instructors of record with grading homework and exams. I was also supported in my second year as a research assistant to explore forecasting strategies of infectious disease models and defend my thesis.\nMy coding experience is predominantly in R and MATLAB. I have experience working in R Markdown and tidyverse, Python with Pandas and Matplotlib, GitHub, Microsoft Office, and SQL.\nI have leadership and time management experience through my role as Vice President of the UGA fencing club.\n\n\n\nFuture Goals\nI am seeking to start a career where I intend to gain industry experience, utilize my critical thinking skills, and hone my technical knowledge and analytical skills. I hope to be part of a collaborative environment with like-minded people who strive for excellence. In the future, I would like to improve my mathematical and statistical modeling skills. My purpose is to aid in developing infectious disease forecasting systems to assist public health officials in preparing for newly emergent infectious diseases.\n\n\nLife Outside of the Classroom\nI cherish time spent with friends and family over home-cooked meals. I love sharing new board games with people, especially strategy games. One would most likely find me in the kitchen tinkering with a recipe or meeting new people at a coffee shop."
+  },
+  {
+    "objectID": "visualization_exercise.html",
+    "href": "visualization_exercise.html",
+    "title": "Statistical Capstone Report",
+    "section": "",
+    "text": "I collaborated with two other capstone students to design an experiment, complete exploratory data analysis, and provide expected results for an experiment centered around bull elephants in Zimbabwe. In Zimbabwe, farmers’ crops have been trampled and eaten, tourists have been negatively impacted, and local communities have faced destruction as a result of the bull elephants. The purpose of the project was to determine which repellent was most effective at keeping bull elephants away from specific areas in the region. The end goal was to create a solution that was low cost, low maintenance, with minimal negative impact to elephant health, and to quantify animal behavior.\n\n\n\n\n\n\n\n  \n     Download Report"
+  },
+  {
+    "objectID": "coding_exercise.html",
+    "href": "coding_exercise.html",
+    "title": "Undergraduate Honors Projects",
+    "section": "",
+    "text": "R Shiny Student Loan Information Application\nAttached, you will find the link to a student loan information application I developed utilizing R Shiny. This application utilizes data visualization to allow for better understanding of the 2019 Survey of Consumer Finances. This survey recorded individuals with a total debt level above $100,000 where gender, race, and age were visualized. I also completed an honors tab where I investigated debt levels for very high debt, demographic breakdowns, education level, and current income levels.\nStudent Loan Information App"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Data Analysis and Personal Portfolio",
+    "section": "",
+    "text": "August 2024\nWelcome to my website and Portfolio.\n\nYou can use the Menu Bar above to look around. The “About Me” tab provides a brief introduction about myself, my research interests, and my experience in statistics.\nYou can use the Projects drop down to review prior data analysis projects.\nPlease let me know if you have any questions by contacting me at npuglisi07@gmail.com."
+  },
+  {
+    "objectID": "Untitled.html",
+    "href": "Untitled.html",
+    "title": "Thesis",
+    "section": "",
+    "text": "Placeholder file for the future Tidy Tuesday exercise."
+  },
+  {
+    "objectID": "firefly.html",
+    "href": "firefly.html",
+    "title": "Sampling Analysis",
+    "section": "",
+    "text": "Alongside two other Statistics students, we collaborated to design and implement a survey on behalf of Firefly Partners, LLC. I was drawn to the Firefly Partners, LLC project because the digital marketing agency is women-owned and delivers solutions that help progressive nonprofits achieve goals. The partnership was facilitated through Riipen, a service that connects companies that need help solving problems relevant to their business model with suitable university courses. The purpose of the survey was to gather qualitative and quantitative data to tell the story of Firefly’s work and how effective their partnerships have been in creating positive change. After the conclusion of the survey, the data was analyzed using R and the findings were presented to representatives at Firefly Partners, LLC. This helped Firefly Partners, LLC tailor their experience to better accommodate current and future users.\n\n\n\n\n\n\n\n  \n     Download Presentation"
+  },
+  {
+    "objectID": "Thesis.html",
+    "href": "Thesis.html",
+    "title": "M.S. Thesis",
+    "section": "",
+    "text": "Validating Forecasting Strategies of Simple Epidemic Models on the 2015-2016 Zika Epidemic\nAbstract: Accurate forecasting of infectious disease outbreaks is vital for safeguarding global health and the well-being of individuals. Model-based forecasts enable public health officials to test what-if scenarios, evaluate control strategies, and develop informed policies to allocate resources effectively. Model selection is a pivotal aspect of creating dependable forecasts for infectious diseases. This thesis delves into validating forecasts of simple epidemic models. We use incidence data from the 2015-2016 Zika virus outbreak in Antioquia, Colombia to assess what model features result in accurate forecasts. We employed the Parametric Bootstrapping and Ensemble Kalman Filter methods to assimilate data and then generated 14-day-ahead forecasts throughout the epidemic across five case studies. We visualized each forecast to show the training/testing split in data and associated prediction intervals. Forecasting accuracy was evaluated using five statistical performance metrics. Early into the epidemic, phenomenological models - like the generalized logistic model - resulted in more accurate forecasts. However, as the epidemic progressed, the mechanistic model incorporating disease latency outperformed its counterparts. While modeling disease transmission mechanisms is crucial for accurate Zika incidence forecasting, additional data is needed to make these models more reliable and precise.\n\n\n\n\n\nThis image represents a 14-day-ahead forecast of the Susceptible-Exposed-Infected-Recovered (SEIR) mathematical model trained on the first 77 days of disease incidence data using the parametric bootstrapping method.\nI have included the introduction, results and discussion chapters of my thesis below!\n\n\n\n\n\n\n\n  \n     Download Thesis"
+  },
+  {
+    "objectID": "Honors.html",
+    "href": "Honors.html",
+    "title": "Undergraduate Honors Projects",
+    "section": "",
+    "text": "R Shiny Student Loan Information Application\nAttached, you will find the link to a student loan information application I developed utilizing R Shiny. This application utilizes data visualization to allow for better understanding of the 2019 Survey of Consumer Finances. This survey recorded individuals with a total debt level above $100,000 where gender, race, and age were visualized. I also completed an honors tab where I investigated debt levels for very high debt, demographic breakdowns, education level, and current income levels.\nStudent Loan Information App"
+  },
+  {
+    "objectID": "Capstone.html",
+    "href": "Capstone.html",
+    "title": "Statistical Capstone Report",
+    "section": "",
+    "text": "I collaborated with two other capstone students to design an experiment, complete exploratory data analysis, and provide expected results for an experiment centered around bull elephants in Zimbabwe. In Zimbabwe, farmers’ crops have been trampled and eaten, tourists have been negatively impacted, and local communities have faced destruction as a result of the bull elephants. The purpose of the project was to determine which repellent was most effective at keeping bull elephants away from specific areas in the region. The end goal was to create a solution that was low cost, low maintenance, with minimal negative impact to elephant health, and to quantify animal behavior.\n\n\n\n\n\n\n\n  \n     Download Report"
+  },
+  {
+    "objectID": "timeseries.html",
+    "href": "timeseries.html",
+    "title": "Time Series Analysis - COVID-19 Vaccine Uptake",
+    "section": "",
+    "text": "A Time Series Analysis of COVID-19 Vaccine Uptake in Georgia\nI collaborated with another student to investigate trends in COVID-19 vaccine uptake and compare the performance of different ARIMA models for a STAT 4280 final project. We transformed The raw cumulative data obtained from the CDC to recover the number of vaccines administered daily and then averaged by week. Linear model residuals demonstrated nonstationarity, so the data required further smoothing on a log scale. ARMA(1,1) and ARMA(1,2) models were then fit using a nonparametric loess regression; the ARMA(1,2) model resulted in better performance over the former. The end goal of this project was to investigate vaccine uptake and develop a model that could forecast the number of vaccines required by the Department of Public Health in Georgia.\n\n\n\n\n\n\n\n  \n     Download Report"
+  },
+  {
+    "objectID": "docs/index.html",
+    "href": "docs/index.html",
+    "title": "Data Analysis and Personal Portfolio",
+    "section": "",
+    "text": "January 2024\nWelcome to my website and Portfolio.\n\nYou can use the Menu Bar above to look around. The “About Me” tab provides a brief introduction about myself, my research interests, and my experience in statistics.\nYou can use the Projects drop down to review prior data analysis projects.\nPlease let me know if you have any questions."
+  },
+  {
+    "objectID": "gcn_project.html",
+    "href": "gcn_project.html",
+    "title": "Graphical Convolutional Networks",
+    "section": "",
+    "text": "Firefly Partners, LLC Sampling Analysis\nI collaborated alongside a peer on a final project in STAT 4270: Network Data Analysis and Graphical Models. Together, we investigated the application of different sampling techniques for semi-supervised classification on Graph Attention Networks (GATs). Utilizing citation network data, we trained the GAT models and selected GraphSAGE, GraphSAINT, and ClusterGCN sampling methods for node dropout. We calculated the classification accuracy over four trials and found that these sampling techniques matched or, in some cases, exceeded the baseline model performance afforded by the GAT. This project aimed to apply techniques from cutting-edge network models and deep learning literature and sought to improve existing techniques; I was drawn to this problem because of the increased prevalence and importance of graphical data analysis for classification and prediction models.\n\n\n\n\n\n\n\n  \n     Download Presentation"
+  }
+]

@@ -1,0 +1,31 @@
+---
+title: "All About Me - Nicolas Puglisi"
+output: 
+  html_document:
+      toc: FALSE
+---
+
+# Introduction
+
+Hi, my name is Nicolas Puglisi. I have recently completed my Master of Science degree in mathematics from Virginia Tech (VT) in May 2024. I completed my undergraduate degrees in mathematics and statistics at the University of Georgia in May 2022. I am currently seeking employment, and I am excited to apply my model building skill set and gain additional experience in the real-world with messy data.
+
+![](nicolas_pfp.jpg){fig-align="center" width="400"}
+
+### Why Mathematics & Statistics?
+
+My love for mathematics began when I took Calculus 1 while dually enrolled with a local college as a rising senior in High School. At the time, I thought I would go on to study engineering or chemistry in college, but I instantly fell in love with the problem-solving, challenge, and intuition of mathematics. During my orientation at UGA, I spoke with the statistics program's undergraduate advisor and was convinced to add an additional major. As a result, studying mathematics and statistics in tandem has given me an immense appreciation for the rich theory and application of model-building and data analysis skills. My studies have empowered me to become a critical thinker and skilled analyst who can work in many settings and collaborate with all.
+
+### Background
+
+-   To conclude my M.S. degree, I researched and defended a thesis validating the forecasting performance of mathematical infectious disease models using data from the 2015-2016 Zika virus epidemic in Colombia. I have been interested in predictive modeling for many years, and became interested in epidemic forecasting after learning more about mathematical modeling from my M.S. program.
+-   During my graduate studies, I was a teaching assistant for multiple math classes in Virginia Tech's mathematics department. I held weekly recitation lectures for undergraduate students in MATH 1025, and also assisted instructors of record with grading homework and exams. I was also supported in my second year as a research assistant to explore forecasting strategies of infectious disease models and defend my thesis.
+-   My coding experience is predominantly in R and MATLAB. I have experience working in R Markdown and tidyverse, Python with Pandas and Matplotlib, GitHub, Microsoft Office, and SQL.
+-   I have leadership and time management experience through my role as Vice President of the UGA fencing club.
+
+### Future Goals
+
+I am seeking to start a career where I intend to gain industry experience, utilize my critical thinking skills, and hone my technical knowledge and analytical skills. I hope to be part of a collaborative environment with like-minded people who strive for excellence. In the future, I would like to improve my mathematical and statistical modeling skills. My purpose is to aid in developing infectious disease forecasting systems to assist public health officials in preparing for newly emergent infectious diseases.
+
+### Life Outside of the Classroom
+
+I cherish time spent with friends and family over home-cooked meals. I love sharing new board games with people, especially strategy games. One would most likely find me in the kitchen tinkering with a recipe or meeting new people at a coffee shop.

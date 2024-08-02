@@ -1,0 +1,32 @@
+project: 
+  type: website
+  output-dir: docs
+
+website:
+  title: "Nicolas Puglisi - Portfolio"
+  navbar:
+    left:
+      - text: "About Me"
+        href: ./aboutme.html
+      - text: "Projects"
+        menu:
+          - text: "Master of Science Thesis"
+            href: ./Thesis.html
+          - text: "Time Series Analysis"
+            href: ./timeseries.html
+          - text: "Graphical Convolutional Networks"
+            href: ./gcn_project.html
+
+    right:
+      - icon: github 
+        href: https://github.com/npuglisi07/npuglisi07-portfolio      
+
+format:
+  html:
+    theme: sandstone
+    highlight: zenburn
+    css: styles.css
+    toc: FALSE
+
+
+

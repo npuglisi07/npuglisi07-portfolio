@@ -1,0 +1,14 @@
+---
+title: "Data Analysis and Personal Portfolio"
+output: 
+  html_document:
+    toc: FALSE
+---
+
+# January 2024
+
+Welcome to **my website** and *Portfolio.*
+
+-   You can use the `Menu Bar` above to look around. The "About Me" tab provides a brief introduction about myself, my research interests, and my experience in statistics.
+-   You can use the `Projects` drop down to review prior data analysis projects.
+-   Please let me know if you have any questions. 

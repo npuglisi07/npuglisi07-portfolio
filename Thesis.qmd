@@ -1,0 +1,59 @@
+---
+title: "M.S. Thesis"
+output: 
+  html_document:
+    toc: FALSE
+title-block-banner: "#CC3333"
+published-title: Nicolas Puglisi M.S. Thesis - Validating Forecasting Strategies of Simple Epidemic Models on the 2015-2016 Zika Epidemic
+engine: knitr 
+cv:
+  pdf: "npuglisi_ms_thesis.pdf"
+---
+
+# Validating Forecasting Strategies of Simple Epidemic Models on the 2015-2016 Zika Epidemic
+
+Abstract: Accurate forecasting of infectious disease outbreaks is vital for safeguarding global health and the well-being of individuals. Model-based forecasts enable public health officials to test what-if scenarios, evaluate control strategies, and develop informed policies to allocate resources effectively. Model selection is a pivotal aspect of creating dependable forecasts for infectious diseases. This thesis delves into validating forecasts of simple epidemic models. We use incidence data from the 2015-2016 Zika virus outbreak in Antioquia, Colombia to assess what model features result in accurate forecasts. We employed the Parametric Bootstrapping and Ensemble Kalman Filter methods to assimilate data and then generated 14-day-ahead forecasts throughout the epidemic across five case studies. We visualized each forecast to show the training/testing split in data and associated prediction intervals. Forecasting accuracy was evaluated using five statistical performance metrics. Early into the epidemic, phenomenological models - like the generalized logistic model - resulted in more accurate forecasts. However, as the epidemic progressed, the mechanistic model incorporating disease latency outperformed its counterparts. While modeling disease transmission mechanisms is crucial for accurate Zika incidence forecasting, additional data is needed to make these models more reliable and precise.
+
+![](SEIR_77train_forecast.jpg){fig-align="center" width="700"}
+
+This image represents a 14-day-ahead forecast of the Susceptible-Exposed-Infected-Recovered (SEIR) mathematical model trained on the first 77 days of disease incidence data using the parametric bootstrapping method.
+
+I have included the introduction, results and discussion chapters of my thesis below!
+
+```{css, echo=FALSE}
+#title-block-header .description {
+    display: none;
+}
+```
+
+```{css echo=FALSE}
+.embed-container {
+    position: relative;
+    padding-bottom: 129%;
+    height: 0;
+    overflow: hidden;
+    max-width: 100%;
+}
+
+.embed-container iframe,
+.embed-container object,
+.embed-container embed {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+}
+```
+
+```{=html}
+<p class="text-center">
+  <a class="btn btn-primary btn-lg cv-download" href="`r rmarkdown::metadata$cv$pdf`" target="_blank">
+    <i class="fa-solid fa-file-arrow-down"></i>&ensp;Download Thesis
+  </a>
+</p>
+
+<div class="embed-container">
+  <iframe src="`r rmarkdown::metadata$cv$pdf`" style="border: 0.5px"></iframe>
+</div>
+```
