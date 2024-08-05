@@ -8,7 +8,7 @@ engine: knitr
 cv:
   pdf: "gcn_pres.pdf"
 ---
-# Firefly Partners, LLC Sampling Analysis
+# Graphical Convolutional Networks
 
 I collaborated alongside a peer on a final project in STAT 4270: Network Data Analysis and Graphical Models. Together, we investigated the application of different sampling techniques for semi-supervised classification on Graph Attention Networks (GATs). Utilizing citation network data, we trained the GAT models and selected GraphSAGE, GraphSAINT, and ClusterGCN sampling methods for node dropout. We calculated the classification accuracy over four trials and found that these sampling techniques matched or, in some cases, exceeded the baseline model performance afforded by the GAT. This project aimed to apply techniques from cutting-edge network models and deep learning literature and sought to improve existing techniques; I was drawn to this problem because of the increased prevalence and importance of graphical data analysis for classification and prediction models.
 
